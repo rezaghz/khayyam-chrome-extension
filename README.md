@@ -1,6 +1,7 @@
 # Khayyam - Chrome Extension
 
 A Chrome extension that displays Omar Khayyam's quatrains (رباعیات خیام) on every new tab, with audio playback support.
+<img width="1847" height="917" alt="Screenshot from 2026-08-09 23-14-49" src="https://github.com/user-attachments/assets/e8b7c1f3-2be3-4bac-904c-00168cafa9db" />
 
 ## Features
 
