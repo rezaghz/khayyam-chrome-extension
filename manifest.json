@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "Khayyam - Rubaiyat",
+  "version": "1.0.0",
+  "description": "Display Omar Khayyam's quatrains with audio playback on new tab",
+  "chrome_url_overrides": {
+    "newtab": "newtab.html"
+  },
+  "icons": {},
+  "web_accessible_resources": [
+    {
+      "resources": ["khayyam.json", "audio/*"],
+      "matches": ["<all_urls>"]
+    }
+  ]
+}
